@@ -29,7 +29,7 @@
     <main>
         <div class="contact-container">
             <div class="contact-content">
-                <form action="contact.php">
+                <form action="index.php">
                     <h1>Drop us line.</h1>
                     <input type="text" name="name" placeholder="Name">
                     <input type="email" name="mail" id="" placeholder="E-mail Address">
