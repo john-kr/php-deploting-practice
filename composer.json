@@ -1,0 +1,13 @@
+{
+    "name": "kurawakataichi/php-deploy-practice",
+    "authors": [
+        {
+            "name": "Taichi Kurawaka",
+            "email": "kr412wk@gmail.com"
+        }
+    ],
+    "require": {
+        "auth0/auth0-php": "^7.2",
+        "vlucas/valitron": "^1.4"
+    }
+}
